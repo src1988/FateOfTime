@@ -1,0 +1,17 @@
+{
+    "base_url": "http://fateoftime.herokuapp.com",
+    "port": "4567",
+    "secret": "cc130850-6ee8-4cf7-a51f-3599fb4a1733",
+    "bind_address": "0.0.0.0",
+    "database": "redis",
+    "redis": {
+        "host": "angelfish.redistogo.com",
+        "port": "10458",
+        "password": "4428405e5dbb7f1a5de0f7195d26824b",
+        "database": "0"
+    },
+    "bcrypt_rounds": 12,
+    "upload_path": "/public/uploads",
+    "use_port": false,
+    "relative_path": ""
+}
