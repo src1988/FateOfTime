@@ -5,9 +5,9 @@
     "bind_address": "0.0.0.0",
     "database": "redis",
     "redis": {
-        "host": "angelfish.redistogo.com",
-        "port": "10458",
-        "password": "4428405e5dbb7f1a5de0f7195d26824b",
+        "host": "ray.redistogo.com",
+        "port": "9748",
+        "password": "45a74f7fd1eeabcb099b64355fedc0eb",
         "database": "0"
     },
     "bcrypt_rounds": 12,
