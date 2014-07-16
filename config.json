@@ -2,7 +2,7 @@
     "base_url": "http://fateoftime.herokuapp.com",
     "port": "4567",
     "secret": "cc130850-6ee8-4cf7-a51f-3599fb4a1733",
-    "bind_address": "0.0.0.0",
+    "bind_address": "127.0.0.1",
     "database": "redis",
     "redis": {
         "host": "ray.redistogo.com",
