@@ -7,7 +7,7 @@
     "redis": {
         "host": "ray.redistogo.com",
         "port": "9748",
-        "password": "45a74f7fd1eeabcb099b64355eb",
+        "password": "45a74f7fd1eeabcb099b64355fedc0eb",
         "database": "0"
     },
     "bcrypt_rounds": 12,
